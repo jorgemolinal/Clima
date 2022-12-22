@@ -1,6 +1,7 @@
 
+CLIMA
 
-Practica 1 de la asignatura Computación Red de la ETSIT
+Practica 4 de la asignatura Computación Red de la ETSIT
 Versión: 11 de Febrero de 2022
 
 #Objetivos
